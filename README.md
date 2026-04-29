@@ -1,11 +1,11 @@
 # IMDb Movie Data Analysis (SQL)
 
 ## 📌 Project Overview
-This project involves a deep dive into the IMDb dataset to answer critical business questions for a fictional production house. The analysis focuses on identifying successful movie patterns, director streaks, and genre popularity over time.
+This project dive into the IMDb dataset to answer critical business questions for a fictional production house for the search of best director for the upcoming project. The analysis focuses on identifying successful movie patterns, director streaks, and genre popularity over time.
 
 ## 🛠️ Tech Stack
 * **Database:** MySQL / PostgreSQL
-* **Concepts Used:** Joins, CTEs (Common Table Expressions), Window Functions, Case Statements, and Aggregations.
+* **Concepts Used:** Joins, Window Functions, Case Statements, and Aggregations.
 
 ## 🔍 Key Questions Answered
 I wrote complex SQL queries to solve the following:
